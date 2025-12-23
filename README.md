@@ -43,7 +43,7 @@ Used NetworkX to build a graph of airline routes, identify top connecting hubs, 
 ---
 
 ## 📫 Contact
-**Email:** lkifle@gmu.edu  
+**Email:** leulkifle.hy@gmail.com
 **Location:** Fairfax, VA  
 
 Thanks for stopping by! Feel free to explore my work or reach out if you'd like to collaborate.
