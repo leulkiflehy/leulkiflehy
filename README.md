@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there
 
 I'm **Leul Kifle**, a data science student based in Virginia.
 
@@ -6,16 +6,16 @@ I analyze real-world datasets, build machine learning models, and create clear v
 
 ---
 
-## 🧠 About Me
-- 🎓 Data Science student at George Mason University  
-- 💡 Interested in machine learning, data analysis, and visualization  
-- 🛠 Building hands-on projects in Python, R, and SQL  
-- 📊 I enjoy simplifying complex datasets into clean, understandable dashboards and visual insights  
-- 🌱 Currently learning Power BI and improving my machine learning workflow  
+## About Me
+- Data Science student at George Mason University  
+- Interested in machine learning, data analysis, and visualization  
+- Building hands-on projects in Python, R, and SQL  
+- I enjoy simplifying complex datasets into clean, understandable dashboards and visual insights  
+- Currently learning Power BI and improving my machine learning workflow  
 
 ---
 
-## ⚙️ Technical Skills
+## Technical Skills
 
 **Programming:** Python, R, SQL, MATLAB, Fortran  
 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NetworkX  
@@ -26,19 +26,22 @@ I analyze real-world datasets, build machine learning models, and create clear v
 
 ---
 
-## 📂 Projects
-Here are a few of the projects I’ve worked on:
+## Projects
 
-### 🔹 Air Quality & Education Data Analysis
-Analyzed multiple public datasets (Air Quality Index, SAT Scores, and Education Levels) using Python to uncover correlations and build data visualizations.
+### Profanity in Hip-Hop Lyrics and Spotify Popularity
+Conducted an end-to-end data analysis project exploring whether profanity in hip-hop lyrics influences Spotify popularity scores.
 
-### 🔹 Python + SQL Database Project
-Built and analyzed a structured dataset using Python (Pandas, SQLite) to extract patterns and optimize data queries.
+**Key Work Included:**
+- Collected, filtered, and sampled a large Spotify lyrics dataset  
+- Performed extensive text preprocessing (tokenization, stopword removal, regex-based cleaning)  
+- Implemented rule-based profanity detection using a curated profanity lexicon  
+- Created visualizations using Pandas, Matplotlib, Seaborn, and WordCloud  
+- Analyzed correlations between profanity levels and popularity metrics  
 
-### 🔹 Airline Network Analysis
-Used NetworkX to build a graph of airline routes, identify top connecting hubs, and visualize network structure using Matplotlib.
+**Outcome:**  
+The analysis found no meaningful relationship between profanity usage and Spotify popularity, suggesting that factors like artist influence, playlisting, and marketing have a stronger impact on engagement than lyrical content alone.
 
-(You can find all project repositories in my GitHub profile.)
+(Full project available on my GitHub profile.)
 
 ---
 
